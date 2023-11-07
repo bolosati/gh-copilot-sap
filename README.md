@@ -24,11 +24,11 @@ Para poder ejecutar estas demos necesitas:
 
 3. ¿Cómo puedo crear una aplicación SAPUI5? 🤔
 
-<img src="images/GH Copilot Chat - Cómo crear una app SAPUI5.png" width="50%">
+<img src="images/GH Copilot Chat - Cómo crear una app SAPUI5.png" width="50%">
 
 4. ¿Cómo instalo SAPUI5 en mi máquina? 🤔
 
-<img src="images/GH Copilot Chat - Cómo instalar la CLI de SAPUI5.png" width="50%">
+<img src="images/GH Copilot Chat - Cómo instalar la CLI de SAPUI5.png" width="50%">
 
 - SAP UI5 (desarrollo web) > Se despliega en BSP (Business Server Pages)
 
