@@ -26,18 +26,38 @@ Para poder ejecutar estas demos necesitas:
 
 <img src="images/GH Copilot Chat - Cómo crear una app SAPUI5.png" width="50%">
 
+4. También puedo preguntarle por errores
+
+<img src="images/GH Copilot Chat - Error SAPUI5.png" width="50%" />
+
 4. ¿Cómo instalo SAPUI5 en mi máquina? 🤔
 
 <img src="images/GH Copilot Chat - Cómo instalar la CLI de SAPUI5.png" width="50%">
 
-- SAP UI5 (desarrollo web) > Se despliega en BSP (Business Server Pages)
+5. ¿Qué tengo que hacer después de ui5 init? 🤔
+
+6. ¿Cómo puedo agregar vistas y controladores a mi aplicación SAPUI5?
+
+<img src="images/GH Copilot Chat - SAPUI5 vistas y controladores - parte 1.png" width="50%">
+<img src="images/GH Copilot Chat - SAPUI5 vistas y controladores - parte 2.png" width="50%">
+
+7. ¿Cómo ejecuto mi aplicación SAPUI5?
+
+8. Le cuento mis problemas 😭
+
+<img src="images/GH Copilot Chat - Listado de elementos en lugar de servir la web - Parte 1.png" width="50%" />
+<img src="images/GH Copilot Chat - Listado de elementos en lugar de servir la web - Parte 2.png" width="50%" />
+
+8. ¿Cómo puedo conectar mi aplicación SAPUI5 a un backend?
+
+9. ¿Cómo puedo desplegar mi aplicación SAPUI5 en un servidor?
 
 ### Desarrollo ABAP
 
-5. ¿Cómo puedo crear un programa ABAP? 🤔
-6. ¿Puedes explicarme este código? 🤔
-7. ¿Puedes hacer test unitarios en ABAP? 🤔
-8. ¿Cómo puedo consumir una API REST con autenticación OAuth? 🤔
+1. ¿Cómo puedo crear un programa ABAP? 🤔
+2. ¿Puedes explicarme este código? 🤔
+3. ¿Puedes hacer test unitarios en ABAP? 🤔
+4. ¿Cómo puedo consumir una API REST con autenticación OAuth? 🤔
 
 ### Enlaces de interés
 - [SAP Business Technology Platform](https://www.sap.com/products/business-technology-platform.html)

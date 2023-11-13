@@ -1,0 +1,3 @@
+<mvc:View controllerName="my.app.controller.App" xmlns:mvc="sap.ui.core.mvc" displayBlock="true">
+  <Button text="Hello World" press=".onPress" />
+</mvc:View>
