@@ -60,7 +60,7 @@ Para poder ejecutar estas demos necesitas:
 
 2. Abre **class_excel_reader.abap** y pregunta: ¿Qué hace este código? 🤔
 
-<img src="images/GH Copilot Chat - Qué hace este código ABAP.png" />
+<img src="images/GH Copilot Chat - Qué hace este código ABAP.png" width="50%" />
 
 3. Usando el mismo archivo ¿Puedes hacer test unitarios en ABAP? 🤔
 
