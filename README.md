@@ -58,7 +58,9 @@ Para poder ejecutar estas demos necesitas:
 
 <img src="images/GH Copilot Chat - Crear un programa ABAP.png" width="50%">
 
-2. Abre **class_excel_reader.abap** y pregunta: ¿Puedes explicarme este código? 🤔
+2. Abre **class_excel_reader.abap** y pregunta: ¿Qué hace este código? 🤔
+
+<img src="images/GH Copilot Chat - Qué hace este código ABAP.png" />
 
 3. Usando el mismo archivo ¿Puedes hacer test unitarios en ABAP? 🤔
 
