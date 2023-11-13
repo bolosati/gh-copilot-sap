@@ -55,9 +55,18 @@ Para poder ejecutar estas demos necesitas:
 ### Desarrollo ABAP
 
 1. ¿Cómo puedo crear un programa ABAP? 🤔
-2. ¿Puedes explicarme este código? 🤔
-3. ¿Puedes hacer test unitarios en ABAP? 🤔
-4. ¿Cómo puedo consumir una API REST con autenticación OAuth? 🤔
+
+<img src="images/GH Copilot Chat - Crear un programa ABAP.png" width="50%">
+
+2. Abre **class_excel_reader.abap** y pregunta: ¿Puedes explicarme este código? 🤔
+
+3. Usando el mismo archivo ¿Puedes hacer test unitarios en ABAP? 🤔
+
+<img src="images/GH Copilot Chat - Test unitarios en ABAP.png" width="50%" />
+
+4. ¿Cómo puedo consumir una API REST con autenticación OAuth en ABAP? 🤔
+
+<img src="images/GH Copilot Chat - Cómo consumir API REST con OAuth en ABAP.png" width="50%">
 
 ### Enlaces de interés
 - [SAP Business Technology Platform](https://www.sap.com/products/business-technology-platform.html)
