@@ -1,8 +1,6 @@
 
 # GitHub Copilot para los amantes de SAP 💙
 
-NOTA: Aunque es una característica muy útil, no podemos utilizar dev containers en el contexto de Repsol, ten en cuenta que no tenemos permisos de admin sobre la máquina. Igual que para node si he encontrado una forma de instalarlo sin necesidad de tener permisos de admin, tenemos que simplificar la configuración del entorno de trabajo. Si te parece quito la parte de docker. También partiría de un paso anterior, hablar de un repositorio Git a un desarrollador SAP es como pedir peras a un Olmo. 
-
 - Clona este repo 👩‍💻
 - O también puedes ejecutarlo en GitHub Codespaces 🐈‍⬛ [Echa un vistazo a este vídeo](https://www.youtube.com/watch?v=0qKG37C8sb8)
 
