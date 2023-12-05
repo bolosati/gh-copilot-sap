@@ -87,27 +87,27 @@ Esta pregunta aunque te la puede resolver Copilot, ya hay un procedimiento estab
 
 5. Crea un programa ABAP que obtenga los nombres de todos los textos fuente ABAP de un paquete. Todos los programas se encuentran en la tabla TRDIR de la base de datos. Para acceder al código de los programas de un determinado paquete, antes tendrás que recoger de la tabla TADIR todos aquellos objetos contenidos en dicho paquete. La clave primaria de la tabla TADIR se compone de los siguientes campos: PGMID, OBJECT, OBJ_NAME y a la TRDIR se podría acceder con aquellos registros cuyo NAME coincida con el OBJ_NAME de la TADIR. Ten en cuenta que la versión es la 7.50 y que quiero que esté enfocado en el rendimiento
 
-<img src="images/ABAP_PROGRAMA.png" width="50%">
+<img src="images/jmc/ABAP_PROGRAMA.png" width="50%">
 
 6. Quiero montar una ALV para visualizar los resultados
 
-<img src="images/ABAP_ALV.png" width="50%">
+<img src="images/jmc/ABAP_ALV.png" width="50%">
 
 7. ¿Pero seguro que no se puede mejorar el rendimiento?
 
-<img src="images/ABAP_RENDIMIENTO.png" width="50%">
+<img src="images/jmc/ABAP_RENDIMIENTO.png" width="50%">
 
 8. ¿Puedes documentar este código?
 
-<img src="images/ABAP_DOCU.png" width="50%">
+<img src="images/jmc/ABAP_DOCU.png" width="50%">
 
 9. ¿Puedes revisar si existe algún problema en el código?
 
-<img src="images/ABAP_ERRORES.png" width="50%">
+<img src="images/jmc/ABAP_ERRORES.png" width="50%">
 
 10. ¿Puedes incluir el manejo de excepciones?
 
-<img src="images/excepciones.png" width="50%">
+<img src="images/jmc/excepciones.png" width="50%">
 
 ### Enlaces de interés
 - [SAP Business Technology Platform](https://www.sap.com/products/business-technology-platform.html)
