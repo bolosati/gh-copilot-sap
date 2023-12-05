@@ -1,0 +1,15 @@
+{
+  "generator-ui5-app": {
+    "namespace": "com.repsol.app",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.60.0",
+    "author": "Jesús Martín Chicharro Gallego",
+    "initrepo": false,
+    "appId": "com.repsol.app",
+    "appURI": "com/repsol/app",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_fiori_3",
+    "qunitCoverageFile": "qunit-coverage.js",
+    "setupCompleted": true
+  }
+}
